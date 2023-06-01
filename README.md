@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: don't
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Australia is wider than the moon...so fun, much fact
--->
+- Check out this link for information on [library carpentry] (librarycarpentry.org/lc-data-intro/)
+- Check out this link for updates to [Archivematica] (https://github.com/artefactual/archivematica)
